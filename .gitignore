@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Config Properties
+*.properties
+
+# ENVIROMENTS
+Telegram/env_gpt/*
+
 # C extensions
 *.so
 
